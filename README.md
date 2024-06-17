@@ -1,1 +1,1 @@
-# hwantajee-dbt
+copyright(c) 2020 All rights reserved by [@hwantajee](https://github.com/hwantajee)
